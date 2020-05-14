@@ -1,0 +1,12 @@
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/bin/Debug/netcoreapp3.1/exercise4.deps.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/bin/Debug/netcoreapp3.1/exercise4.runtimeconfig.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/bin/Debug/netcoreapp3.1/exercise4.runtimeconfig.dev.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/bin/Debug/netcoreapp3.1/exercise4.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/bin/Debug/netcoreapp3.1/exercise4.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.csprojAssemblyReference.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.csproj.CoreCompileInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.AssemblyInfoInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.AssemblyInfo.cs
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise4/obj/Debug/netcoreapp3.1/exercise4.genruntimeconfig.cache
