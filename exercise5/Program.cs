@@ -17,7 +17,20 @@ namespace exercise5
 
             if (op == "+")
             {
-                Console.WriteLine(nume1+num2);
+                Console.WriteLine(num1+num2);
+            } else if (op == "-")
+            {
+                Console.WriteLine(num1-num2);
+            } else if (op == "/")
+            {
+                Console.WriteLine(num1/num2);
+            } else if (op == "*")
+            {
+                Console.WriteLine(num1*num2);
+            }
+            else
+            {
+                Console.WriteLine("Invalid Oerator");
             }
         }
     }
