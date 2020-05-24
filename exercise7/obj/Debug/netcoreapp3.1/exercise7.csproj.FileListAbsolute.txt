@@ -1,0 +1,12 @@
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/bin/Debug/netcoreapp3.1/exercise7.deps.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/bin/Debug/netcoreapp3.1/exercise7.runtimeconfig.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/bin/Debug/netcoreapp3.1/exercise7.runtimeconfig.dev.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/bin/Debug/netcoreapp3.1/exercise7.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/bin/Debug/netcoreapp3.1/exercise7.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.csprojAssemblyReference.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.csproj.CoreCompileInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.AssemblyInfoInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.AssemblyInfo.cs
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise7/obj/Debug/netcoreapp3.1/exercise7.genruntimeconfig.cache
