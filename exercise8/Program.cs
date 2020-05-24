@@ -11,9 +11,10 @@ namespace exercise8
                 Console.WriteLine(i);
                 i++;
             }*/
-            for(int i = 1; i <=5; i++)
+            int[] luckyNumbers = {2,3,6,4,8,9};
+            for(int i = 0; i <luckyNumbers.Length; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(luckyNumbers[i]);
             }
         }
     }
