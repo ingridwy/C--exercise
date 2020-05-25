@@ -6,6 +6,12 @@ namespace exercise8
     {
         static void Main(string[] args)
         {
+            int[,] numberGrid = {
+                {1,2},
+                {4,5},
+                {6,7}
+            };
+            Console.WriteLine(numberGrid[1,1]);
             Console.WriteLine(GetPower(4,3));
             /*int i =1;
             while (i<=5){
