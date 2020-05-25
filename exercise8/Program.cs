@@ -6,6 +6,7 @@ namespace exercise8
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(GetPower(4,3));
             /*int i =1;
             while (i<=5){
                 Console.WriteLine(i);
@@ -16,6 +17,16 @@ namespace exercise8
             {
                 Console.WriteLine(luckyNumbers[i]);
             }
+            
+        }
+        static int GetPower(int baseNum, int powerNum)
+        {
+            int result = 1;
+            for (int i =0; i < powerNum; i++)
+            {
+                result = result * baseNum;
+            }
+            return result;
         }
     }
 }
