@@ -1,0 +1,12 @@
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/bin/Debug/netcoreapp3.1/exercise9.deps.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/bin/Debug/netcoreapp3.1/exercise9.runtimeconfig.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/bin/Debug/netcoreapp3.1/exercise9.runtimeconfig.dev.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/bin/Debug/netcoreapp3.1/exercise9.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/bin/Debug/netcoreapp3.1/exercise9.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.csprojAssemblyReference.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.csproj.CoreCompileInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.AssemblyInfoInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.AssemblyInfo.cs
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise9/obj/Debug/netcoreapp3.1/exercise9.genruntimeconfig.cache
