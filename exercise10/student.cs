@@ -7,11 +7,27 @@ namespace exercise10
         public string name;
         public string major;
         public double gpa;
-        public Student(string aName, string aMajor,double aGpa)
+        private string comment; 
+        public Student(string aName, string aMajor,double aGpa, string aComment)
         {
             name = aName;
             major = aMajor;
             gpa = aGpa;
+            Comment = aComment;
+        }
+        public string Comment
+        {
+            get { return comment;}
+            set { 
+                if(value == "good" || value == "fair")
+                {
+                    comment = value;
+                }
+                else
+                {
+                    comment = "invalid";
+                }
+            }
         }
         public bool HasHonours()
         {
