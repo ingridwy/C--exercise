@@ -19,7 +19,7 @@ namespace exercise10
         {
             get { return comment;}
             set { 
-                if(value == "good" || value == "fair")
+                if(value == "good" || value == "fair" || value == "unsatisfactory")
                 {
                     comment = value;
                 }
