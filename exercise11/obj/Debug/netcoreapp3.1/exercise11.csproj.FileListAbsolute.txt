@@ -1,0 +1,12 @@
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/bin/Debug/netcoreapp3.1/exercise11.deps.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/bin/Debug/netcoreapp3.1/exercise11.runtimeconfig.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/bin/Debug/netcoreapp3.1/exercise11.runtimeconfig.dev.json
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/bin/Debug/netcoreapp3.1/exercise11.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/bin/Debug/netcoreapp3.1/exercise11.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.csprojAssemblyReference.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.csproj.CoreCompileInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.AssemblyInfoInputs.cache
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.AssemblyInfo.cs
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.dll
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.pdb
+/Users/ingridwaiyiucheng/C#-exercise/exercise11/obj/Debug/netcoreapp3.1/exercise11.genruntimeconfig.cache
