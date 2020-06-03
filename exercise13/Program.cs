@@ -6,8 +6,10 @@ namespace exercise13
     {
         static void Main(string[] args)
         {
-            Teachers teacher = new Teachers();
-            teacher.TeachEnglish();
+            Teachers teachers = new Teachers();
+            teachers.TeachFrench();
+            SportTeachers sportTeachers = new SportTeachers();
+            sportTeachers.TeachFrench();
         }
     }
 }

@@ -2,7 +2,8 @@ using System;
 
 namespace exercise13
 {
-    class ItalianTeacher : Teachers
+    class SportTeachers : Teachers
     {
+    
     }
 }
